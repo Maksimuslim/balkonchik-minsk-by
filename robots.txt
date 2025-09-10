@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://balkonomania-minsk.vercel.app/sitemap.xml
